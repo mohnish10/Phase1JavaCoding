@@ -1,5 +1,4 @@
 package com.simplilearn.basics;
-import java.util.*;
 import java.util.regex.*;
 public class RegexDemo1 {
 	public static void main(String[] args)

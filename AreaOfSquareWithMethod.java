@@ -13,5 +13,6 @@ System.out.println("Please enter the value of side :-");
 value = sc.nextDouble();
 AreaOfSquareWithMethod aos = new AreaOfSquareWithMethod();
 System.out.println("Area of the square is :- "+aos.area(value));
+sc.close();
 }
 }
