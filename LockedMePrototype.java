@@ -86,7 +86,7 @@ System.out.println(file.getName() + "deleted successfully" );
 }
 else
 {
-System.out.println(file.getName() + "not found");	
+System.out.println(file.getName() + "not found and hence cannot be deleted");	
 }
 }	
 	
